@@ -31,8 +31,8 @@ export default function ChartCard({ title }) {
     {
       label: "Average Attention",
       data: [72, 75, 70, 78],
-      borderColor: "#F1D27A",
-      backgroundColor: "rgba(212,175,55,0.2)",
+      borderColor: "#7a88f1ff",
+      backgroundColor: "rgba(244, 244, 246, 1)",
       tension: 0.4,
     },
   ],
